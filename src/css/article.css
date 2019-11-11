@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.article__heading {
+  font-weight: normal;
+  font-size: 24px;
+  letter-spacing: 1.6px;
+  margin: 0 0 8px;
+}
+
+.article__body {
+  margin-top: 24px;
+  font-size: 16px;
+}
+
+.article__date {
+  font-size: 14px;
+}
